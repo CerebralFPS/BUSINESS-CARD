@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    font-family: Luminari ;
+}
+
+.avatar {
+    width: 150px;
+    border-bottom: 6px solid #f48c06;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #03071e;
+    color: #f48c06;
+    border-bottom: 6px solid #f48c06;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
